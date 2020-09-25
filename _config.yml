@@ -1,9 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              Mintnote Blog
+email:              mintnotecode@gmail.com
+description:        Mintnote Blog
+author:             Sumin Lee
+baseurl:            "/"
+url:                "https://mintnote.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
@@ -17,7 +17,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-paginate:           5
+paginate:           8
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
