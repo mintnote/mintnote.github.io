@@ -1,8 +1,8 @@
 title:              Mintnote Blog
 email:              mintnotecode@gmail.com
-description:        Mintnote Blog
+description:        민트노트 개발블로그입니다.
 author:             Sumin Lee
-baseurl:            "/"
+baseurl:            ""
 url:                "https://mintnote.github.io"
 
 # Social Profiles
